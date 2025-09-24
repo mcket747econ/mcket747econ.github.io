@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "mcket747econ/mcketty_jobmarket2",
+    "data-repo": "mcket747econ/mcket747econ.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
