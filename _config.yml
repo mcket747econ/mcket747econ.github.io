@@ -154,6 +154,7 @@ exclude:
   - _pages/respositories.md
   - _pages/people.md
   - _books/
+  - _pages/profiles.md
   
 keep_files:
   - CNAME
