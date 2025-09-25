@@ -25,9 +25,9 @@ Job Market Paper: Slides</a>
 <a class="page-link" href="{{ '/Research/paper1_final.pdf' | prepend: site.baseurl | prepend: site.url }}">
 Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a>
 
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides (9/24/2025): 
+<!-- <i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides (9/24/2025): 
 <a class="page-link" href="{{ '/Research/chapter1_official_presentation.pdf' | prepend: site.baseurl | prepend: site.url }}">
-Job Market Paper: Slides</a> -->
+Job Market Paper: Slides</a> --> -->
 
 
 <i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('compstat')">_Abstract_</a>
