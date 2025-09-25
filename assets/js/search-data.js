@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -24,29 +24,24 @@ ninja.data = [{
             window.location.href = "/Projects/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/CV/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/Teaching/";
           },
         },{id: "projects-sun-sand-and-services-tourism-and-household-welfare-in-jamaica",
           title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica',
           description: "Job Market Paper",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/01_project.html";
-            },},{id: "projects-sun-sand-and-services-tourism-and-household-welfare-in-jamaica",
-          title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica',
-          description: "Job Market Paper",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/project1_jmp.html";
+              window.location.href = "/projects/1_project.html";
             },},{
         id: 'social-email',
         title: 'email',
