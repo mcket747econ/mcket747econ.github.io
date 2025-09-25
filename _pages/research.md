@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: An overview of my current and past research projects
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 <script type="text/javascript">
