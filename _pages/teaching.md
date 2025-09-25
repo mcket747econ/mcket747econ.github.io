@@ -12,7 +12,7 @@ nav_order: 4
 <ul style="list-style: none;">
 <li markdown="1"> 
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
-** Yiddish Song and The Jewish Experience**,  University of Wisconsin - Madison, Fall 2025 .
+**Yiddish Song and The Jewish Experience**,  University of Wisconsin - Madison, Fall 2025 .
 94 Students
 </li>  
 <li markdown="1">
