@@ -106,7 +106,7 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
+  Projects:
     output: true
 
 # -----------------------------------------------------------------------------
