@@ -77,9 +77,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
-            },},{id: "projects-sun-sand-and-services-tourism-and-household-welfare-in-jamaica",
-          title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica',
-          description: "Job Market Paper",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/project1_jmp.html";
             },},{
