@@ -21,7 +21,13 @@ nav_order: 1
 
 ### Working Papers
 
+<a href="/projects/portwatch/">Nowcasting Trade From Space </a>
 
+
+<a href="/projects/mali_climate/">Climate Change and Household Welfare in Mali</a>
+<!-- <a href="{{ '/projects/jamaica_tourism/' | prepend: site.baseurl | prepend: site.url }}">Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a> -->
 
 
 ### Works in Progress
+<a >**Firm Behavior and Worker Welfare: Evidence From Jamaica**</a>
+<!-- <a href="{{ '/projects/jamaica_tourism/' | prepend: site.baseurl | prepend: site.url }}">Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a> -->

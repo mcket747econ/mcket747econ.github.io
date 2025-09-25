@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-#### Courses Taught:
+#### Courses:
 
 <ul style="list-style: none;">
 <li markdown="1"> 
