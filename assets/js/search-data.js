@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/CV/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Teaching/";
+          },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "My Education, Experienced, and Skills",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "projects-sun-sand-and-services-tourism-and-household-welfare-in-jamaica",
           title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica',
