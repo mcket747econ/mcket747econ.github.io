@@ -14,7 +14,7 @@ nav_order: 5
  
 ### Full Curriculum Vitae
 
-My full CV is available here: <a class="page-link" href="{{ '/cv/McKetty_CV_0525.pdf'}}">Here</a>  
+My full CV is available: <a class="page-link" href="{{ '/cv/McKetty_CV_0525.pdf'}}">Here</a>  
 
 ------
 
@@ -34,14 +34,47 @@ Field: Development Economics
 </li> 
 <li markdown="1"> 
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
-**B.Sc. in Economics** (minor: French and Francophone Studies), University of Florida, Cum Laude, 2019.
+**B.A. in Economics** (minor: French and Francophone Studies), University of Florida, Cum Laude, 2019.
 </li> 
 </ul>  
 
-#### Employment:
+#### Research Experience:
 
+<ul style="list-style: none;">
+<li markdown="1"> 
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**International Monetary Fund**,  Washington, DC, Fund Internship Program, Summer 2024.
+Field: Development Economics
+</li>  
+<li markdown="1">
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**University of Wisconsin Madison**, Research Assistant: Mali Climate and Well-Being Study, 9/1/2021 - 8/31/2024. 
+</li> 
 
+#### Conferences:
 
+<ul style="list-style: none;">
+<li markdown="1"> 
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**AEA/ASSA Annual Conference(Upcoming) Poster Session**,  Philadelphia, PA, January 2026.
+Field: Development Economics
+</li>  
+<li markdown="1">
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**Center For The Study of African Economies Annual Conference**,Oxford, U.K. , 3/2025. 
+</li> 
+<li markdown="1">
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**Invited(Agricultural and Applied Economics Assosciation Annual Conference)**,New Orleans, LA , 7/2024. 
+</li> 
+<li markdown="1">
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**Center For The Study of African Economies Annual Conference**,Oxford, U.K. , 3/2024. 
+</li> 
+<li markdown="1">
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**West Indies Economics Conference**,Kingston, Jamaica , 3/2024. 
+</li> 
 
 
 
