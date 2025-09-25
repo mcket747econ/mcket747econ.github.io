@@ -2,11 +2,23 @@
 layout: page
 permalink: /Teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Courses Taught:
 
-Organize your courses by years, topics, or universities, however you like!
+<ul style="list-style: none;">
+<li markdown="1"> 
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+** Yiddish Song and The Jewish Experience**,  University of Wisconsin - Madison, Fall 2025 .
+94 Students
+</li>  
+<li markdown="1">
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**Introduction to Agricultural and Applied Economics**, University of Wisconsin - Madison, Spring 2023. 
+59 Students
+</li> 
+
+</ul>  
