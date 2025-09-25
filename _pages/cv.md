@@ -3,7 +3,6 @@ layout: page
 permalink: /cv/
 title: CV
 description: My Education, Experienced, and Skills
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -27,7 +26,7 @@ My full CV is available here: <a class="page-link" href="{{ '/cv/McKetty_CV_0525
 <li markdown="1"> 
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
 **Ph.D. in Agricultural and Applied Economics**,  University of Wisconsin - Madison 2020 - 2026(Expected).
-Field: [Development Economics]
+Field: Development Economics
 </li>  
 <li markdown="1">
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
