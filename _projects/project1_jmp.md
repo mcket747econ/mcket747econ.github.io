@@ -4,6 +4,7 @@ title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica'
 description: Job Market Paper
 img: /assets/img/tourism1_pics.jpg
 ---
+{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
@@ -11,7 +12,6 @@ img: /assets/img/tourism1_pics.jpg
     e.style.display = (e.style.display == 'block') ? 'none' : 'block';
  }
 </script> 
-
 
 
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> Current Draft(9/24/2025): <a class="page-link" href="{{ '/research/
