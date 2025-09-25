@@ -18,47 +18,33 @@ My full CV is available here: <a class="page-link" href="{{ '/cv/McKetty_CV_0525
 
 ------
 
-### short CV
-
-#### Employment:
-
-* **Current position:** Adjunct faculty at the [School of Business and Economics][EOR], [Vrije Universiteit Amsterdam][VU] (from March 2023)
-* Research Associate in Statistics, [University of Glasgow][UoG] and the [Closed-Loop Data Science][CLDS] projects (June 2020 &ndash;  February 2023)
-* Research Assistant in Statistics, [University of Glasgow][UoG] and [SofTMech][SofTMech] (May 2018 &ndash;  May 2020)
-* Ph.D. Candidate in Econometrics, [Vrije Universiteit Amsterdam][VU] and [Tinbergen Institute][TI] (Sep. 2015 &ndash;  Aug. 2018)
-* Teaching Assistant for postgraduate courses, [Erasmus University Rotterdam][Erasmus] (Sep. 2014 &ndash; Dec. 2014)
+### CV: Selected Components
 
 #### Education:
 
 <ul style="list-style: none;">
 <li markdown="1"> 
-<i class="fa fa-graduation-cap" aria-hidden="true"></i>
-**Ph.D. in Econometrics**,  [Vrije Universiteit Amsterdam][VU] and [Tinbergen Institute][TI], 2019.
-Supervisors: [Siem Jan Koopman][SiemJanKoopman] and [Lennart Hoogerheide][LennartHoogerheide]
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**Ph.D. in Agricultural and Applied Economics**,  [University of Wisconsin - Madison] 2020 - 2026(Expected).
+Field: [Development Economics]
 </li>  
 <li markdown="1">
-<i class="fa fa-graduation-cap" aria-hidden="true"></i>
-**M.Phil. in Econometrics**, [Tinbergen Institute][TI], 2015. 
-</li> 
-<li markdown="1"> <i class="fa fa-graduation-cap" aria-hidden="true"></i>
-**B.Sc. in Mathematics** (minor: Probability Theory), [Faculty of Mathematics, Informatics, and Mechanics][MIMUW], [University of Warsaw][UW], 2013.
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**M.S. Agricultural and Applied Economics**, [University of Wisconsin - Madison], 2022. 
 </li> 
 <li markdown="1"> 
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> 
-**M.Sc. in Economics**, [Warsaw School of Economics][SGH], 2012.
-</li> 
-<li markdown="1"> 
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> 
-**B.Sc. in Economics**, [Warsaw School of Economics][SGH], 2009.
+<!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
+**B.Sc. in Economics** (minor: French and Francophone Studies), [University of Florida, Cum Laude], 2019.
 </li> 
 </ul>  
 
+#### Employment:
 
-#### Visits and exchanges:
-* [University of Edinburgh][UoE], [School of Mathematics][SchoolMath], host supervisor: [Ruth King][RuthKing], Apr. &ndash; Jun. 2017.  
-* [University of Göttingen](http://www.uni-goettingen.de/en/1.html), Faculty of Economics and Business Administration, M.Sc. program, Erasmus exchange, Sep. 2010 &ndash;  Feb. 2011
+
+
+
+
+
 
 ***
 
-#### Pronunciation
-In case you were interested, here is how my <a href="https://en.wiktionary.org/wiki/Agnieszka" title="Agnieszka">name</a> is pronounced: a'g&#626;&#603;&#642;ka or Ag-niesh-ka.  
