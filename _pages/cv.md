@@ -5,7 +5,7 @@ title: CV
 description: My Education, Experienced, and Skills
 profile:
   align: right
-  image: prof_pic.jpg
+  image: /assets/img/prof_pic.jpg
 news: false
 social: false
 nav: true 
