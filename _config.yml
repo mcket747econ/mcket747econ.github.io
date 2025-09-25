@@ -100,13 +100,11 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: true
   news:
     defaults:
       layout: post
     output: true
-  Projects:
+  projects:
     output: true
 
 # -----------------------------------------------------------------------------
