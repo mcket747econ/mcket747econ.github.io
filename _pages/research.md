@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-description: An overview of my current and past research projects
+description: 
 nav: true
 nav_order: 1
 ---
@@ -21,13 +21,16 @@ nav_order: 1
 
 ### Working Papers
 
-<a href="/projects/portwatch/">Nowcasting Trade From Space </a>
+Project: <a href="/projects/portwatch_shipping/">Nowcasting Global Trade From Space </a>
+_with Serkan Arslanalp, Seung Mo Choi, Parisa Kamali, Robin Koepke, Michele Ruta, Mario Saraiva, Alessandra Sozzi, and Jasper Verschuur_  
+Published as IMF Working Paper, 2025
 
 
-<a href="/projects/mali_climate/">Climate Change and Household Welfare in Mali</a>
+Project: <a href="/projects/mali_agriculture/">Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</a>
+_with Jeremy Foltz_
 <!-- <a href="{{ '/projects/jamaica_tourism/' | prepend: site.baseurl | prepend: site.url }}">Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a> -->
 
 
 ### Works in Progress
-<a >**Firm Behavior and Worker Welfare: Evidence From Jamaica**</a>
+<a >**Dissertation Chapter 2: Firm Behavior and Worker Welfare: Evidence From Jamaica**</a>
 <!-- <a href="{{ '/projects/jamaica_tourism/' | prepend: site.baseurl | prepend: site.url }}">Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a> -->
