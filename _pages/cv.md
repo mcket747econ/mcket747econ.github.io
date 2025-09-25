@@ -58,7 +58,7 @@ Field: Development Economics
 <li markdown="1"> 
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
 **AEA/ASSA Annual Conference(Upcoming) Poster Session**,  Philadelphia, PA, January 2026.
-Field: Development Economics
+
 </li>  
 <li markdown="1">
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
