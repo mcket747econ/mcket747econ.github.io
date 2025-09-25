@@ -42,6 +42,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jamaica_tourism/";
+            },},{id: "projects-nowcasting-global-trade-from-space",
+          title: 'Nowcasting Global Trade from Space',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/portwatch_shipping/";
+            },},{id: "projects-climate-and-consumption-using-vegetation-indices-to-link-climate-and-household-welfare-in-mali",
+          title: 'Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mali_agriculture/";
             },},{
         id: 'social-email',
         title: 'email',
