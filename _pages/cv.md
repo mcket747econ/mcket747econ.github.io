@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: My Education, Experienced, and Skills
+description: 
 profile:
   align: right
   img: /assets/img/prof_pic.jpg
