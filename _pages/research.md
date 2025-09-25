@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /research/
 description: An overview of my current and past research projects
-nav_order: 2
+nav_order: 1
 ---
 
 <script type="text/javascript">
