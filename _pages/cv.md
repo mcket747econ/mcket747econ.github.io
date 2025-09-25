@@ -9,6 +9,8 @@ profile:
   image: prof_pic.jpg
 news: false
 social: false
+nav: true 
+nav_order: 4
 ---
  
 ### full CV
