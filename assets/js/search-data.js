@@ -10,18 +10,18 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-research",
-          title: "research",
+          title: "Research",
           description: "An overview of my current and past research projects",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research/";
+            window.location.href = "/Research/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/Projects/";
           },
         },{id: "nav-cv",
           title: "cv",
@@ -38,6 +38,11 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "projects-sun-sand-and-services-tourism-and-household-welfare-in-jamaica",
+          title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica',
+          description: "Job Market Paper",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/01_project.html";
+            },},{id: "projects-sun-sand-and-services-tourism-and-household-welfare-in-jamaica",
           title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica',
           description: "Job Market Paper",
           section: "Projects",handler: () => {
