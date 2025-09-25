@@ -6,12 +6,12 @@ img: /assets/img/tourism1_pics.jpg
 ---
 {% include _links_library.md %}
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
  function showhide(id) {
     var e = document.getElementById(id);
     e.style.display = (e.style.display == 'block') ? 'none' : 'block';
  }
-</script>
+</script> -->
 
 
 
