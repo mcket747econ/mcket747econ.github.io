@@ -53,13 +53,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/mali_agriculture/";
             },},{
-        id: 'social-organization',
-        title: 'Organization',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
