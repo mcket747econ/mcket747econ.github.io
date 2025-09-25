@@ -13,7 +13,6 @@ description: An overview of my current and past research projects
 </script>
 
 ### Job Market Paper
-Project::
 Project: <a class="page-link" href="{{ '/projects/project1_jmp/' | prepend: site.baseurl | prepend: site.url }}">
 Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a>  
  
