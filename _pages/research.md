@@ -14,11 +14,11 @@ nav_order: 1
  }
 </script>
 
-### Job Market Paper
-<a href="/projects/jamaica_tourism/">Sun, Sand, and Services</a>
+## Job Market Paper
+<a href="/projects/jamaica_tourism/">Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a>
 <!-- <a href="{{ '/projects/jamaica_tourism/' | prepend: site.baseurl | prepend: site.url }}">Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a> -->
 
- 
+
 ### Working Papers
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica'
-description: Job Market Paper
+description: 
 img: /assets/img/tourism_pics1.jpg
 importance: 1
 permalink: /projects/jamaica_tourism/
@@ -14,7 +14,6 @@ permalink: /projects/jamaica_tourism/
  }
 </script> 
 
-### Abstract
 <i class="fa fa-sticky-note" aria-hidden="true"></i> <a href="javascript:showhide('compstat')">_Abstract_</a>
 <div id="compstat" style="display:none;">
 <p>  <div style="font-size:0.85em; text-align: justify;">
