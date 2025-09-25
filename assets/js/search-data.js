@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
+        },{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -82,6 +77,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
+            },},{id: "projects-sun-sand-and-services-tourism-and-household-welfare-in-jamaica",
+          title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica',
+          description: "Job Market Paper",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project1_jmp.html";
             },},{
         id: 'social-email',
         title: 'email',
