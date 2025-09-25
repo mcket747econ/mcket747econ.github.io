@@ -15,7 +15,7 @@ nav_order: 1
 </script>
 
 ### Job Market Paper
-Project: <a href="{{ '/projects/1_project/' | prepend: site.baseurl | prepend: site.url }}">
+Project: <a href="{{'/Projects/jamaica_tourism/'| prepend: site.baseurl | prepend: site.url}}">
 Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a>
 
  
