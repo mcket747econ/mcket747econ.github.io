@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+{% include _links_library.md %}
+
 <script type="text/javascript">
  function showhide(id) {
     var e = document.getElementById(id);
