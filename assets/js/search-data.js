@@ -14,7 +14,7 @@ ninja.data = [{
           description: "An overview of my current and past research projects",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Research/";
+            window.location.href = "/research/";
           },
         },{id: "nav-projects",
           title: "Projects",
@@ -41,7 +41,7 @@ ninja.data = [{
           title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica',
           description: "Job Market Paper",
           section: "Projects",handler: () => {
-              window.location.href = "/Projects/jamaica_tourism/";
+              window.location.href = "/projects/jamaica_tourism/";
             },},{
         id: 'social-email',
         title: 'email',
