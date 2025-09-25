@@ -1,13 +1,11 @@
 ---
 layout: page
 title: research
-permalink: /research/
+permalink: /Research/
 description: An overview of my current and past research projects
 nav: true
 nav_order: 1
 ---
-
-{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
