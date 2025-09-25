@@ -13,9 +13,9 @@ nav: true
 nav_order: 5
 ---
  
-### full CV
+### Full Curriculum Vitae
 
-My full CV is available here: <a class="page-link" href="{{ '/cv/McKetty_CV_0525.pdf'}}">here</a>  
+My full CV is available here: <a class="page-link" href="{{ '/cv/McKetty_CV_0525.pdf'}}">Here</a>  
 
 ------
 
@@ -26,16 +26,16 @@ My full CV is available here: <a class="page-link" href="{{ '/cv/McKetty_CV_0525
 <ul style="list-style: none;">
 <li markdown="1"> 
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
-**Ph.D. in Agricultural and Applied Economics**,  [University of Wisconsin - Madison] 2020 - 2026(Expected).
+**Ph.D. in Agricultural and Applied Economics**,  University of Wisconsin - Madison 2020 - 2026(Expected).
 Field: [Development Economics]
 </li>  
 <li markdown="1">
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
-**M.S. Agricultural and Applied Economics**, [University of Wisconsin - Madison], 2022. 
+**M.S. Agricultural and Applied Economics**, University of Wisconsin - Madison, 2022. 
 </li> 
 <li markdown="1"> 
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
-**B.Sc. in Economics** (minor: French and Francophone Studies), [University of Florida, Cum Laude], 2019.
+**B.Sc. in Economics** (minor: French and Francophone Studies), University of Florida, Cum Laude, 2019.
 </li> 
 </ul>  
 
