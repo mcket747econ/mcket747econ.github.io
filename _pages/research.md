@@ -4,7 +4,6 @@ title: research
 permalink: /research/
 description: An overview of my current and past research projects
 ---
-{% include _links_library.md %}
 
 <script type="text/javascript">
  function showhide(id) {
