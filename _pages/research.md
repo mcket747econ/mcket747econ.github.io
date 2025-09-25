@@ -15,8 +15,9 @@ nav_order: 1
 </script>
 
 ### Job Market Paper
-Project: <a class="page-link" href="{{ '/Projects/01_project/' | prepend: site.baseurl | prepend: site.url }}">
-Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a>  
+Project: <a href="{{ '/projects/project1_jmp/' | prepend: site.baseurl | prepend: site.url }}">
+Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a>
+
  
 ### Working Papers
 
