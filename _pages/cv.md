@@ -10,7 +10,6 @@ profile:
 news: false
 social: false
 ---
-<!-- {% include _links_library.md %} -->
  
 ### full CV
 
