@@ -50,6 +50,7 @@ Field: Development Economics
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
 **University of Wisconsin Madison**, Research Assistant: Mali Climate and Well-Being Study, 9/1/2021 - 8/31/2024. 
 </li> 
+</ul>  
 
 #### Conferences:
 
@@ -75,9 +76,10 @@ Field: Development Economics
 <!-- <i class="fa fa-graduation-cap" aria-hidden="true"></i> -->
 **West Indies Economics Conference**,Kingston, Jamaica , 3/2024. 
 </li> 
+</ul>  
 
 
 
 
-***
+
 
