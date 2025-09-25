@@ -15,8 +15,6 @@ img: /assets/img/tourism1_pics.jpg
 
 
 
-> A study of the relationship between variation in tourism levels and variation in the welfare of households in Jamaica. 
-
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> Current Draft(9/24/2025): <a class="page-link" href="{{ '/research/
                                                                                       paper1_final.pdf' | prepend: site.baseurl | prepend: site.url }}">Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a>
 
