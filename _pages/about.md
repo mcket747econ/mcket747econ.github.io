@@ -30,20 +30,13 @@ social: true # includes social icons at the bottom of the page
 </div>
 
 <div class="bio-wrapper">
-      <div class="bio-text">
-      <p>
-        I am a development economist working on household welfare, structural change, and trade. I am currently a doctoral student at the 
-        <a href="https://aae.wisc.edu">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. I am on the 2025–2026 economics job market.
-      </p>
-
-      <div class="spacer"></div>
-
-      <p>
-        My primary regions of interest are the Caribbean and Sub-Saharan Africa. My dissertation studies the relationship between tourism and economic development in Jamaica.
-      </p>
-    </div>
-
-
+  <div class="bio-text">
+    <p>
+      I am a development economist working on household welfare, structural change, and trade. I am currently a doctoral student at the 
+      <a href="https://aae.wisc.edu">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. I am on the 2025–2026 economics job market.
+      
+      My primary regions of interest are the Caribbean and Sub-Saharan Africa. My dissertation studies the relationship between tourism and economic development in Jamaica.
+    </p>
 
     <div class="education-section">
       <h3>Education</h3>
