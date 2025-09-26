@@ -21,9 +21,6 @@ $max-content-width: {{ site.max_width }};
     padding-top: 0.0em;
   }
 
-
-
-
   .banner-text {
     color: white;
     text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
@@ -73,17 +70,18 @@ $max-content-width: {{ site.max_width }};
 
 
 }
-hero-banner {
-  position: relative;
-  background-image: url('/assets/img/mobay_picture.jpg');
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  height: 240px;
-  display: flex;
-  align-items: flex-start;
-  padding: 1.5em 2em;
-}
+
+hero-banner{
+    position: relative;
+    background-image: url('/assets/img/mobay_picture.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 240px;
+    display: flex;
+    align-items: flex-start;
+    padding: 1.5em 2em;
+  }
 
 .banner-text {
   color: white;
