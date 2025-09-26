@@ -13,7 +13,7 @@ $max-content-width: {{ site.max_width }};
   margin-top: 0.5em;
 }
 
-hero-banner{
+.hero-banner{
     position: relative;
     background-image: url('/assets/img/mobay_picture.jpg');
     background-size: cover;
@@ -25,60 +25,55 @@ hero-banner{
     padding: 1.5em 2em;
   }
 
-  
+
 @media (max-width: 768px) {
+  .post-header {
+      margin-top: 0.0em; // or try 0 if you want it flush
+      padding-top: 0.0em;
+    }
 
-.post-header {
-    margin-top: 0.0em; // or try 0 if you want it flush
-    padding-top: 0.0em;
-  }
+    .banner-text {
+      color: white;
+      text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+    }
 
-  .banner-text {
-    color: white;
-    text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
-  }
+    .banner-text h1 {
+      font-size: 2em;
+      margin: 0;
+    }
 
-  .banner-text h1 {
-    font-size: 2em;
-    margin: 0;
-  }
+    .banner-text p {
+      font-size: 1.1em;
+      margin-top: 0.5em;
+    }
+    .hero-banner {
+      height: 180px;
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 1em;
+    }
 
-  .banner-text p {
-    font-size: 1.1em;
-    margin-top: 0.5em;
-  }
-   .hero-banner {
-    height: 180px;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 1em;
-  }
+    .bio-wrapper {
+      flex-direction: column;
+      align-items: center;
+      padding: 1.5em;
+    }
 
-  .bio-wrapper {
-    flex-direction: column;
-    align-items: center;
-    padding: 1.5em;
-  }
+    .bio-text {
+      max-width: 90%;
+      text-align: left;
+    }
 
-  .bio-text {
-    max-width: 90%;
-    text-align: left;
-  }
+    .bio-image {
+      width: 140px;
+      margin-top: 1em;
+    }
 
-  .bio-image {
-    width: 140px;
-    margin-top: 1em;
-  }
-
-  .profile-overlay {
-    width: 140px;
-    margin: 0 auto;
-    position: static;
-  }
-
-
- 
-
+    .profile-overlay {
+      width: 140px;
+      margin: 0 auto;
+      position: static;
+    }
 
 
 }
