@@ -12,6 +12,7 @@ $max-content-width: {{ site.max_width }};
   color: #555;
   margin-top: 0.5em;
 }
+@media (max-width: 768px) {
 .post-header {
   margin-top: 0.0em; // or try 0 if you want it flush
   padding-top: 0.0em;
@@ -49,8 +50,8 @@ $max-content-width: {{ site.max_width }};
   position: absolute;
   bottom: -250px; /* move it lower */
   right: 2em;
-  width: 480px; /* enlarge the image */
-  height:320px;
+  width: 525px; /* enlarge the image */
+  height:350px;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.4);
   z-index: 2;
@@ -107,7 +108,7 @@ $max-content-width: {{ site.max_width }};
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.4);
 }
-
+}
 
 
 
