@@ -37,8 +37,7 @@ social: true # includes social icons at the bottom of the page
       My primary regions of interest are the Caribbean and Sub-Saharan Africa. My dissertation studies the relationship between tourism and economic development in Jamaica. 
     </p>
   </div>
-
-<div class="education-section">
+  <div class="education-section">
   <h3>Education</h3>
   <ul style="list-style: none; padding-left: 0;">
     <li markdown="1">
@@ -53,10 +52,6 @@ social: true # includes social icons at the bottom of the page
     </li>
   </ul>
 </div>
-
-
-
-
   <div class="bio-image">
     <img src="/assets/img/prof_pic.jpg" alt="Matthew McKetty" class="profile-overlay">
   </div>
