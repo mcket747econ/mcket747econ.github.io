@@ -23,11 +23,10 @@ social: true # includes social icons at the bottom of the page
 #   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 <div class="hero-banner">
-  <!-- <div class="banner-text">
+  <div class="banner-text">
     <h1>Matthew McKetty</h1>
     <p><a href="https://aae.wisc.edu" style="color: #eee;">University of Wisconsin - Madison</a></p>
-  </div> -->
-  <img src="/assets/img/prof_pic.jpg" alt="Matthew McKetty" class="profile-overlay">
+  </div>
 </div>
 
 <div class="bio-wrapper">
@@ -37,7 +36,11 @@ social: true # includes social icons at the bottom of the page
       My primary regions of interest are the Caribbean and Sub-Saharan Africa. I am on the 2025–2026 job market.
     </p>
   </div>
+  <div class="bio-image">
+    <img src="/assets/img/prof_pic.jpg" alt="Matthew McKetty" class="profile-overlay">
+  </div>
 </div>
+
 
 
 

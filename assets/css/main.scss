@@ -57,34 +57,40 @@ $max-content-width: {{ site.max_width }};
     font-size: 1.1em;
     margin-top: 0.5em;
   }
-  bio-wrapper {
-    flex-direction: column;
-    align-items: center;
-    padding: 1.5em;
-  }
+ 
 
-  .bio-text {
-    max-width: 90%;
-    text-align: left;
-  }
+bio-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5em;
+  gap: 1.5em;
+}
 
-  .bio-image {
-    width: 140px;
-    margin-top: 1em;
-  }
+.bio-text {
+  max-width: 90%;
+  text-align: left;
+  font-size: 1em;
+  z-index: 1;
+}
 
-
-
-
-.profile-overlay {
-  width: 160px;
-  max-width: 160px;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+.bio-image {
+  width: 140px;
+  max-width: 140px;
   z-index: 2;
 }
- 
+
+.profile-overlay {
+  width: 140px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  position: static;
+}
+
+
+
 
 }
 
