@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica'
-description: 
+summary: "Analyzes how tourism spending affects household welfare in Jamaica using household and tourist expenditure data."
 img: /assets/img/tourism_pics1.jpg
 importance: 1
 permalink: /projects/jamaica_tourism/

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Nowcasting Global Trade from Space'
-description: 
+summary:  "Demonstrates the effectiveness of employing global shipping satellite data for estimating near real-time variation in trade flows"
 img: /assets/img/international_shipping1.jpg
 importance: 2
 permalink: /projects/portwatch_shipping/

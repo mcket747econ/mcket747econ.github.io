@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 'Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali'
-description: 
+summary: "We employ remotely sensed vegetation indices as proxies for agricultural output, to estimate how Malian household welfare changes with variation in agricultural production."
 img: /assets/img/mali_image1.jpg
 importance: 3
 permalink: /projects/mali_agriculture/

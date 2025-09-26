@@ -6,6 +6,15 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+
+.card-text {
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 0.5em;
+}
+
+
+
 @import
   "variables",
   "themes",
