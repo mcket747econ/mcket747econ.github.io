@@ -33,5 +33,6 @@ _with Jeremy Foltz_
 
 ### Works in Progress
 <a >**Firm Behavior and Worker Welfare: Evidence From Jamaica**</a>
+
 <a >**Tourism Shocks and Human Capital Accumulation in Jamaica**</a>
 <!-- <a href="{{ '/projects/jamaica_tourism/' | prepend: site.baseurl | prepend: site.url }}">Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a> -->
