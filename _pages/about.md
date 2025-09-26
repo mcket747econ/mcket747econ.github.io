@@ -22,12 +22,12 @@ social: true # includes social icons at the bottom of the page
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 #   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
-<div class="hero-banner">
+<!-- <div class="hero-banner">
   <div class="banner-text">
     <h1>Matthew McKetty</h1>
     <p><a href="https://aae.wisc.edu" style="color: #eee;">University of Wisconsin - Madison</a></p>
   </div>
-</div>
+</div> -->
 
 <div class="bio-wrapper">
   <div class="bio-text">
