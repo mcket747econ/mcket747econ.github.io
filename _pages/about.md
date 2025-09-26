@@ -32,8 +32,11 @@ social: true # includes social icons at the bottom of the page
 <div class="bio-wrapper">
   <div class="bio-text">
     <p>
-      I am a development economist working on issues related to household welfare, structural change, and trade.
-      My primary regions of interest are the Caribbean and Sub-Saharan Africa. I am on the 2025–2026 job market.
+      I am a development economist working on household welfare, structural change, and trade. I am currently a doctoral student at the 
+       <p><a href="https://aae.wisc.edu" style="color: #eee;">University of Wisconsin - Madison</a></p> in the Agricultural and Applied Economics Department.  I am on the 2025–2026 economics job market.
+
+      My primary regions of interest are the Caribbean and Sub-Saharan Africa. My dissertation studies the relationship between tourism and economic development in Jamaica. 
+
     </p>
   </div>
   <div class="bio-image">
