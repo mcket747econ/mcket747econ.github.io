@@ -12,8 +12,102 @@ $max-content-width: {{ site.max_width }};
   color: #555;
   margin-top: 0.5em;
 }
+.post-header {
+  margin-top: 0.0em; // or try 0 if you want it flush
+  padding-top: 0.0em;
+}
 
 
+.hero-banner {
+  position: relative;
+  background-image: url('/assets/img/mobay_picture.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 200px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 1.5em 2em;
+}
+
+.banner-text {
+  color: white;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+}
+
+.banner-text h1 {
+  font-size: 2em;
+  margin: 0;
+}
+
+.banner-text p {
+  font-size: 1.1em;
+  margin-top: 0.5em;
+}
+.profile-overlay {
+  position: absolute;
+  bottom: -250px; /* move it lower */
+  right: 2em;
+  width: 600px; /* enlarge the image */
+  height:320px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  z-index: 2;
+}
+// .profile-overlay {
+//   position: absolute;
+//   bottom: -60px;
+//   right: 2em;
+//   width: 160px;
+//   border-radius: 8px;
+//   box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+//   z-index: 2;
+// }
+.bio-wrapper {
+  display: flex;
+  justify-content: flex-start; /* aligns content to the left */
+  align-items: flex-start;
+  margin-top: 40px; /* move it up closer to the banner */
+  margin-bottom: 5em;
+  padding: 2em 3em;
+  gap: 2em;
+}
+
+.bio-text {
+  flex: 1;
+  font-size: 1.1em;
+  text-align: justify;
+  max-width: 600px;
+  margin-top: -40px; /* nudges it upward */
+}
+
+
+// .bio-wrapper {
+//   display: flex;
+//   justify-content: center;
+//   margin-top: 80px;
+//   padding: 2em;
+// }
+
+// .bio-text {
+//   max-width: 700px;
+//   font-size: 1.1em;
+//   text-align: justify;
+// }
+
+
+
+.bio-image {
+  flex-shrink: 0;
+}
+
+.profile-overlay {
+  width: 160px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
 
 @import
   "variables",
