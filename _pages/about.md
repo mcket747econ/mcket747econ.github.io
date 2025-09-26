@@ -34,9 +34,13 @@ social: true # includes social icons at the bottom of the page
     <p>
       I am a development economist working on household welfare, structural change, and trade. I am currently a doctoral student at the 
       <a href="https://aae.wisc.edu">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. I am on the 2025–2026 economics job market.
+    </p>
 
+    <p>
       My primary regions of interest are the Caribbean and Sub-Saharan Africa. My dissertation studies the relationship between tourism and economic development in Jamaica.
     </p>
+
+
 
     <div class="education-section">
       <h3>Education</h3>
@@ -49,7 +53,7 @@ social: true # includes social icons at the bottom of the page
           <strong>M.S. Agricultural and Applied Economics</strong> University of Wisconsin - Madison, 2022
         </li>
         <li>
-          <strong>B.A. in Economics</strong> (Minor: French and Francophone Studies) University of Florida, Cum Laude, 2019
+          <strong>B.A. in Economics</strong> (Minor: French and Francophone Studies), University of Florida, Cum Laude, 2019
         </li>
       </ul>
     </div>
