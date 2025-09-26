@@ -13,6 +13,8 @@ $max-content-width: {{ site.max_width }};
   margin-top: 0.5em;
 }
 
+@media (max-width: 768px) {
+
 .post-header {
     margin-top: 0.0em; // or try 0 if you want it flush
     padding-top: 0.0em;
@@ -47,15 +49,15 @@ $max-content-width: {{ site.max_width }};
     margin-top: 0.5em;
   }
   .profile-overlay {
-    position: absolute;
-    bottom: -250px; /* move it lower */
-    right: 2em;
-    width: 525px; /* enlarge the image */
-    height:350px;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
-    z-index: 2;
+    position: static;
+    margin-top: 1em;
+    width: 140px;
+    max-width: 140px;
+    height: auto;
+    display: block;
+    align-self: center;
   }
+
   // .profile-overlay {
   //   position: absolute;
   //   bottom: -60px;
@@ -103,11 +105,7 @@ $max-content-width: {{ site.max_width }};
     flex-shrink: 0;
   }
 
-  .profile-overlay {
-    width: 160px;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
-  }
+}
 
 
 
