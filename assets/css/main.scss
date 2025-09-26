@@ -12,14 +12,6 @@ $max-content-width: {{ site.max_width }};
   color: #555;
   margin-top: 0.5em;
 }
-
-@media (max-width: 768px) {
-
-.post-header {
-    margin-top: 0.0em; // or try 0 if you want it flush
-    padding-top: 0.0em;
-  }
-
   .hero-banner {
     position: relative;
     background-image: url('/assets/img/mobay_picture.jpg');
@@ -33,6 +25,23 @@ $max-content-width: {{ site.max_width }};
     align-items: flex-start;
     padding: 1.5em 2em;
   }
+
+
+@media (max-width: 768px) {
+
+.post-header {
+    margin-top: 0.0em; // or try 0 if you want it flush
+    padding-top: 0.0em;
+  }
+
+  .hero-banner {
+    height: 180px;
+    padding: 1em;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+
 
   .banner-text {
     color: white;
@@ -48,26 +57,38 @@ $max-content-width: {{ site.max_width }};
     font-size: 1.1em;
     margin-top: 0.5em;
   }
-  .profile-overlay {
-    position: static;
-    margin-top: 1em;
-    width: 140px;
-    max-width: 140px;
-    height: auto;
-    display: block;
-    align-self: center;
+  bio-wrapper {
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5em;
   }
 
-  // .profile-overlay {
-  //   position: absolute;
-  //   bottom: -60px;
-  //   right: 2em;
-  //   width: 160px;
-  //   border-radius: 8px;
-  //   box-shadow: 0 4px 12px rgba(0,0,0,0.4);
-  //   z-index: 2;
-  // }
-  .bio-wrapper {
+  .bio-text {
+    max-width: 90%;
+    text-align: left;
+  }
+
+  .bio-image {
+    width: 140px;
+    margin-top: 1em;
+  }
+
+
+
+
+.profile-overlay {
+  width: 160px;
+  max-width: 160px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  z-index: 2;
+}
+ 
+
+}
+
+ .bio-wrapper {
     display: flex;
     justify-content: flex-start; /* aligns content to the left */
     align-items: flex-start;
@@ -104,8 +125,22 @@ $max-content-width: {{ site.max_width }};
   .bio-image {
     flex-shrink: 0;
   }
+  .profile-overlay {
+    position: absolute;
+    bottom: -60px;
+    right: 2em;
+    width: 160px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+    z-index: 2;
+  }
 
+
+.bio-image {
+  flex-shrink: 0;
+  max-width: 160px;
 }
+
 
 
 
