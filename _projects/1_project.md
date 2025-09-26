@@ -21,11 +21,11 @@ Tourism services have seen marked growth over the last two decades. Many countri
 </div>
 
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> Current Draft (9/24/2025): 
-<a class="page-link" href="/research/paper1_final.pdf">
+<a class="page-link" href="/Research/paper1_final.pdf">
 Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a>
 
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides (9/24/2025): 
-<a class="page-link" href="/research/chapter1_official_presentation.pdf">
+<a class="page-link" href="/Research/chapter1_official_presentation.pdf">
 Job Market Paper: Slides</a>
 
 
