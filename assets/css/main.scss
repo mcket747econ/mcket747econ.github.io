@@ -17,7 +17,7 @@ $max-content-width: {{ site.max_width }};
   padding-top: 0.0em;
 }
 
-
+@media (max-width: 768px) {
 .hero-banner {
   position: relative;
   background-image: url('/assets/img/mobay_picture.jpg');
@@ -51,7 +51,7 @@ $max-content-width: {{ site.max_width }};
   bottom: -250px; /* move it lower */
   right: 2em;
   width: 650px; /* enlarge the image */
-  height:320px;
+  height:350px;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.4);
   z-index: 2;
@@ -108,6 +108,9 @@ $max-content-width: {{ site.max_width }};
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.4);
 }
+
+}
+
 
 @import
   "variables",
