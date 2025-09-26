@@ -12,8 +12,8 @@ $max-content-width: {{ site.max_width }};
   color: #555;
   margin-top: 0.5em;
 }
-@media (max-width: 768px) {
-  .post-header {
+
+.post-header {
     margin-top: 0.0em; // or try 0 if you want it flush
     padding-top: 0.0em;
   }
@@ -108,7 +108,7 @@ $max-content-width: {{ site.max_width }};
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.4);
   }
-}
+
 
 
 
