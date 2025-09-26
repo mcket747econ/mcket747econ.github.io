@@ -38,6 +38,27 @@ social: true # includes social icons at the bottom of the page
     </p>
   </div>
   <div class="education-section">
+  <h3>Education</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>
+      <strong>Ph.D. in Agricultural and Applied Economics</strong>, University of Wisconsin - Madison (Expected 2026)<br>
+      Field: Development Economics
+    </li>
+    <li>
+      <strong>M.S. Agricultural and Applied Economics</strong>, University of Wisconsin - Madison, 2022
+    </li>
+    <li>
+      <strong>B.A. in Economics</strong> (Minor: French and Francophone Studies), University of Florida, Cum Laude, 2019
+    </li>
+  </ul>
+</div>
+  <div class="bio-image">
+    <img src="/assets/img/prof_pic.jpg" alt="Matthew McKetty" class="profile-overlay">
+  </div>
+</div>
+
+
+  <!-- <div class="education-section">
     <h3>Education</h3>
     <ul style="list-style: none; padding-left: 0;">
       <li markdown="1">
@@ -51,12 +72,5 @@ social: true # includes social icons at the bottom of the page
         <strong>B.A. in Economics</strong> (Minor: French and Francophone Studies), University of Florida, Cum Laude, 2019
       </li>
     </ul>
-  </div>
-  <div class="bio-image">
-    <img src="/assets/img/prof_pic.jpg" alt="Matthew McKetty" class="profile-overlay">
-  </div>
-</div>
-
-
-
+  </div> -->
 
