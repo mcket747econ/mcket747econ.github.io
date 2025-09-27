@@ -31,13 +31,16 @@ Job Market Paper: Slides</a>
 
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;" />
 ### Working Papers
+
 <div style="margin-bottom: 2em;">
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> IMF Working Paper(05/2025): 
 <a class="page-link" href="/Research/portwatch_writeup.pdf">
 Nowcasting Global Trade from Space</a> _with Serkan Arslanalp, Seung Mo Choi, Parisa Kamali, Robin Koepke, Michele Ruta, Mario Saraiva, Alessandra Sozzi, and Jasper Verschuur_  
 Published as IMF Working Paper, 2025
 </div>
+
 <br><br>
+
 <div style="margin-bottom: 2em;">
 <details open style="margin-top: -1em;">
 <summary><b>Abstract</b></summary>
