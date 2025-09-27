@@ -48,9 +48,10 @@ Published as IMF Working Paper, 2025
 
 
 
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> Current Draft (9/24/2025): 
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> 
 <a class="page-link" href="/research/mali_climate_writeup.pdf">
-Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</a>_with Jeremy Foltz_
+Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</a> _with Jeremy Foltz_
+Current Draft (9/24/2025)
 
 
 <details open style="margin-top: -1em;">
