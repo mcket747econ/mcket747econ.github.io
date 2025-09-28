@@ -15,7 +15,7 @@ nav_order: 1
 </script>
 
 ## Job Market Paper
-<a href="{{'/Research/paper1_final.pdf'}}" target="_blank"><strong>Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</strong></a> Current Draft:(09/24/25)
+<a href="{{'/Research/paper1_final.pdf'}}" target="_blank"><strong>Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</strong></a> - Current Draft:(09/24/25)
 <details open style="margin-top: -.2em;">
 <summary><b>Abstract</b></summary>
 <small>Tourism services have seen marked growth over the last two decades. Many countries have also incorporated tourism specialization into their national development plans. Despite it's importance, there is still a significant amount that remains unanswered about the ability of tourism to generate improvements in welfare for a local population. There is also uncertainty about the degree to which gains from tourism are able to benefit households across the income distribution. I contribute to the literature by answering this question in the context of Jamaica, an emerging economy that has made tourism a major component of its national development strategy, but that has also experienced mixed economic outcomes over the past 2 decades. I contribute to the literature by employing two unique and powerful sources of data. First, I use a rich cross-section of Jamaican household expenditure data spanning the period between 2000 and 2021. Second, I use a dataset of granular tourist spending data from the Jamaican Ministry of Tourism covering the same period. Combining these, I use a shift-share instrumental variable estimation strategy to identify the effects of changes in tourism intensity in a municipality on real per capita consumption by local households. After accounting for cost-of-living differences between different areas of Jamaica, I find that an increase in tourist accommodation spending of 10 million US dollars yields a roughly 1% increase in real per-capita household expenditures for urban households outside of the capital Kingston. I find that these increases in expenditure occur across areas of food and nonfood consumption, along with healthcare and loan repayments. These increases are concentrated in medium-skilled occupations in non-tourism service sector and manufacturing industries, and for households roughly in the middle of the expenditure distribution. Overall, I find that tourism produces broad gains across income/expenditure but that there appear to be limited gains for workers within the tourism industry itself, consistent with low productivity growth and constant returns to scale production in labor.</small>
@@ -28,7 +28,7 @@ Job Market Paper:Slides</a>
 
 ### Working Papers
 <a href="{{'/Research/portwatch_writeup.pdf'}}" target="_blank"><strong>Nowcasting Global Trade from Space</strong></a> _with Serkan Arslanalp, Seung Mo Choi, Parisa Kamali, Robin Koepke, Michele Ruta, Mario Saraiva, Alessandra Sozzi, and Jasper Verschuur_  <br/>
-&#9679; <a href="https://www.imf.org/en/Publications/WP/Issues/2025/05/16/Nowcasting-Global-Trade-from-Space-566957)" target="_blank">IMF Working Paper</a> (May 2025)<br/>
+&#9679; <a href="https://www.imf.org/en/Publications/WP/Issues/2025/05/16/Nowcasting-Global-Trade-from-Space-566957)" target="_blank">IMF Working Paper</a> (05/2025)<br/>
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> 
 <details open style="margin-top: 0.1em;">
 <summary><b>Abstract</b></summary>
@@ -36,7 +36,7 @@ Job Market Paper:Slides</a>
 </details>
 
 <br><br>
-<a href="{{'/Research/mali_climate_writeup.pdf'}}" target="_blank"><strong>Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</strong></a> _with Jeremy Foltz_, Current Draft:(09/24/25)
+<a href="{{'/Research/mali_climate_writeup.pdf'}}" target="_blank"><strong>Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</strong></a> _with Jeremy Foltz_ - Current Draft:(09/24/25)
 
 <details open style="margin-top: -.2em;">
 <summary><b>Abstract</b></summary>
