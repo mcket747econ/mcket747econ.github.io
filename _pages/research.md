@@ -37,7 +37,7 @@ Job Market Paper:Slides</a>
 
 
 
-<div style="margin-top: 2em;">
+<div style="margin-top: 5em;">
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> <a href="{{'/Research/mali_climate_writeup.pdf'}}" target="_blank"><strong>Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</strong></a> _with Jeremy Foltz_ - Current Draft: (09/24/25)
 </div>
 
