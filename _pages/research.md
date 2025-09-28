@@ -35,7 +35,6 @@ Job Market Paper:Slides</a>
 <small>We introduce a nowcasting model of global maritime trade, leveraging satellite-based big data on vessel movements. This provides a timely indicator of global trade as shipping accounts for about 80 percent of worldwide merchandise trade by volume. Our approach mimics key features of the way statisticians compile trade data—measuring the customs value of imported and exported goods, forming import and export price deflators, and then estimating import and export volumes. We show how global and regional nowcasts can be obtained using port-level data from IMF PortWatch and highlight important enhancements to the platform since its beta launch in November 2023. Finally, we demonstrate how the monthly nowcasts can be used to monitor fragmentation and regionalization in global maritime trade.</small>
 </details>
 
-<br><br>
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> <a href="{{'/Research/mali_climate_writeup.pdf'}}" target="_blank"><strong>Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</strong></a> _with Jeremy Foltz_ - Current Draft: (09/24/25)
 
 <details open style="margin-top: -.2em;">
