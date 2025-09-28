@@ -28,7 +28,7 @@ Job Market Paper:Slides</a>
 
 ### Working Papers
 <a href="{{'/Research/portwatch_writeup.pdf'}}" target="_blank"><strong>Nowcasting Global Trade from Space</strong></a> <br/>
-&#9679; <a href="https://www.imf.org/en/Publications/WP/Issues/2025/05/16/Nowcasting-Global-Trade-from-Space-566957)" target="_blank">IMF Working Paper</a> (May 2025)_with Serkan Arslanalp, Seung Mo Choi, Parisa Kamali, Robin Koepke, Michele Ruta, Mario Saraiva, Alessandra Sozzi, and Jasper Verschuur_ <br/>
+&#9679; <a href="https://www.imf.org/en/Publications/WP/Issues/2025/05/16/Nowcasting-Global-Trade-from-Space-566957)" target="_blank">IMF Working Paper</a> (May 2025) _with Serkan Arslanalp, Seung Mo Choi, Parisa Kamali, Robin Koepke, Michele Ruta, Mario Saraiva, Alessandra Sozzi, and Jasper Verschuur_ <br/>
 <i class="fa fa-download fa-ld" aria-hidden="true"></i>  IMF Working Paper(05/2025): 
 <details open style="margin-top: 0.1em;">
 <summary><b>Abstract</b></summary>
@@ -36,7 +36,7 @@ Job Market Paper:Slides</a>
 </details>
 
 <br><br>
-<a href="{{'/Research/mali_climate_writeup.pdf'}}" target="_blank"><strong>Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</strong></a>_with Jeremy Foltz_ Current Draft (09/24/25)
+<a href="{{'/Research/mali_climate_writeup.pdf'}}" target="_blank"><strong>Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</strong></a> _with Jeremy Foltz_ Current Draft (09/24/25)
 Current Draft (9/24/2025)
 <details open style="margin-top: -.2em;">
 <summary><b>Abstract</b></summary>
