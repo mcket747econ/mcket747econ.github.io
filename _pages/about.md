@@ -33,7 +33,7 @@ social: true # includes social icons at the bottom of the page
   <div class="bio-text">
     <p>
       I am an applied economist specializing in development with work at the intersection of household welfare, structural change, and trade. I am currently a doctoral student at the 
-      <a href="https://aae.wisc.edu">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. I am on the 2025–2026 economics job market.
+      <a href="https://aae.wisc.edu" class="adaptive-link">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. I am on the 2025–2026 economics job market.
     </p>
 
     <p>
