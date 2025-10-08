@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/cv-link/";
           },
         },{id: "projects-sun-sand-and-services-tourism-and-household-welfare-in-jamaica",
           title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica',
