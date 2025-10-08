@@ -32,7 +32,7 @@ social: true # includes social icons at the bottom of the page
 <div class="bio-wrapper">
   <div class="bio-text">
     <p>
-      I am a development economist working on household welfare, structural change, and trade. I am currently a doctoral student at the 
+      I am an applied economist specializing in development with work at the intersection of household welfare, structural change, and trade. I am currently a doctoral student at the 
       <a href="https://aae.wisc.edu">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. I am on the 2025–2026 economics job market.
     </p>
 
@@ -42,9 +42,9 @@ social: true # includes social icons at the bottom of the page
 
 
 
-    <div class="education-section">
+  <div class="education-section">
       <h3>Education</h3>
-      <ul style="list-style: none; padding-left: 0;">
+      <ul class="unstyled-list">
         <li>
           <strong>Ph.D. in Agricultural and Applied Economics</strong> University of Wisconsin - Madison (Expected 2026)<br>
           Field: Development Economics

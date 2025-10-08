@@ -76,6 +76,27 @@
   }
 }
 
+.adaptive-link {
+  color: var(--global-theme-color);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--global-hover-color);
+  }
+}
+
+.theme-text {
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+}
+
+
+.unstyled-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+
 html[data-theme="dark"] {
   color-scheme: dark;
   --global-bg-color: #{$grey-color-dark};
