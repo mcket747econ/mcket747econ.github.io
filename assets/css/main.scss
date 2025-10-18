@@ -67,29 +67,23 @@ $max-content-width: {{ site.max_width }};
       margin-top:0;
     }
 
-    .bio-wrapper {
-      // flex-direction: column;
-      // align-items: center;
-      // padding: 1.5em;
+     .bio-wrapper {
       flex-direction: column;
-      align-items: center;
-    }
+       align-items: center;
+      text-align: center;
+     }
 
-    .bio-text {
-      max-width: 90%;
-      text-align: left;
-      padding: 0 1rem;
+  .bio-text {
+    max-width: 90%;
+    padding: 0 1rem;
+  }
 
-    }
+  .bio-image {
+    width: 80%;
+    max-width: 300px;
+    margin-top: 2rem;
+  }
 
-    .bio-image {
-      // width: 140px;
-      // margin-top: 1em;
-      flex: none;
-      width: 80%;
-      max-width: 300px;
-      margin-top: 2rem; /* Adds vertical space between banner and image */
-    }
 
     .profile-overlay {
       width: 140px;
@@ -123,34 +117,27 @@ $max-content-width: {{ site.max_width }};
 }
 
 .bio-wrapper {
-  // display: flex;
-  // justify-content: flex-start;
-  // align-items: flex-start;
-  // gap: 2em;
-  // max-width: 1000px;
-  // margin: 2em auto 5em auto;
-  // padding: 0 2em;
   display: flex;
-  flex-direction: row; /* Ensures image and text sit side-by-side */
+  flex-direction: row;
   align-items: flex-start;
-  gap: 2rem; /* Optional spacing between image and text */
+  justify-content: center; // centers the whole block horizontally
+  gap: 3rem; // increases spacing between image and text
+  margin: 0 auto;
+  max-width: $max-content-width; // optional, if not already constrained
+}
 
-
+.bio-image {
+  flex: 0 0 220px; // fixed width
+  margin-top: 2rem;
 }
 
 .bio-text {
   flex: 1;
-  max-width: 600px;
+  max-width: 700px;
   font-size: 1.1em;
-  text-align: justify;
+  padding: 0 1rem; // adds breathing room
 }
 
-.bio-image {
-  // flex-shrink: 0;
-  // width: 160px;
-  flex: 0 0 250px; /* Fixed width for image container */
-  margin-top: 2rem; /* Adds vertical space between banner and image */
-}
 
 .profile-overlay {
   // width: 160px;
