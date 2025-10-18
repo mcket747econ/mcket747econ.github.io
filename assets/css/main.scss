@@ -27,13 +27,14 @@ $max-content-width: {{ site.max_width }};
     background-size: cover;
     background-position: center;
     width: 100%;
-    height: 240px;
+    height: 200px;
     display: flex;
     align-items: flex-start;
     border-radius: 8px;
 
     // padding: 1.5em 2em;
     margin-top:0;
+    margin-bottom: 2rem;
   }
 
 
@@ -77,6 +78,8 @@ $max-content-width: {{ site.max_width }};
     .bio-text {
       max-width: 90%;
       text-align: left;
+      padding: 0 1rem;
+
     }
 
     .bio-image {
@@ -85,6 +88,7 @@ $max-content-width: {{ site.max_width }};
       flex: none;
       width: 80%;
       max-width: 300px;
+      margin-top: 2rem; /* Adds vertical space between banner and image */
     }
 
     .profile-overlay {
@@ -95,6 +99,7 @@ $max-content-width: {{ site.max_width }};
 
     .education-section {
         max-width: 90%;
+        padding: 0 1rem;
         margin: 2em auto 0 auto;
 
         h3 {
@@ -144,6 +149,7 @@ $max-content-width: {{ site.max_width }};
   // flex-shrink: 0;
   // width: 160px;
   flex: 0 0 250px; /* Fixed width for image container */
+  margin-top: 2rem; /* Adds vertical space between banner and image */
 }
 
 .profile-overlay {

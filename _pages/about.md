@@ -30,6 +30,12 @@ social: true # includes social icons at the bottom of the page
 </div>
 
 <div class="bio-wrapper">
+
+ <div class="bio-image">
+    <img src="/assets/img/prof_pic.jpg" alt="Matthew McKetty" class="profile-overlay">
+  </div>
+
+  
   <div class="bio-text">
     <p>
       I am an applied economist specializing in development with work at the intersection of household welfare, structural change, and trade. I am currently a doctoral student at the 
@@ -59,9 +65,7 @@ social: true # includes social icons at the bottom of the page
     </div>
   </div>
 
-  <div class="bio-image">
-    <img src="/assets/img/prof_pic.jpg" alt="Matthew McKetty" class="profile-overlay">
-  </div>
+ 
 </div>
 
 
