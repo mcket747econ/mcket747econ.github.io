@@ -107,6 +107,11 @@ $max-content-width: {{ site.max_width }};
       }
 
 
+  .research-container {
+    max-width: 100%;
+    padding: 0 1rem;
+  }
+
 }
 
 
@@ -127,7 +132,7 @@ $max-content-width: {{ site.max_width }};
 }
 
 .bio-image {
-  flex: 0 0 220px; // fixed width
+  flex: 0 0 280px; // fixed width
   margin-top: 2rem;
 }
 
@@ -184,6 +189,13 @@ $max-content-width: {{ site.max_width }};
     }
   }
 }
+
+.research-container {
+  max-width: 1000px; // or 900px, depending on your preference
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
 
 
 
