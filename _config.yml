@@ -99,7 +99,7 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  projects:
+  # projects:
     output: true
   
 
