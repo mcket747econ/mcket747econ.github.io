@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
+        },{id: "nav-sun-sand-and-services",
+          title: "Sun, Sand, and Services",
+          description: "Exploring how tourism affects household welfare in Jamaica",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/jamaica_tourism/";
+          },
         },{id: "nav-projects",
           title: "Projects",
           description: "",
