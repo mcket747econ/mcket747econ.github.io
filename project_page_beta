@@ -1,11 +1,11 @@
----
-layout: default
-title: Sun, Sand, and Services
-permalink: /projects/jamaica_tourism/
-description: Exploring how tourism affects household welfare in Jamaica
-nav: true
-nav_order: 2
----
+
+# layout: default
+# title: Sun, Sand, and Services
+# permalink: /projects/jamaica_tourism/
+# description: Exploring how tourism affects household welfare in Jamaica
+# nav: true
+# nav_order: 2
+
 
 # 🌴 Sun, Sand, and Services: Tourism and Household Welfare in Jamaica
 
