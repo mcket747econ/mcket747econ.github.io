@@ -16,20 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-sun-sand-and-services",
-          title: "Sun, Sand, and Services",
-          description: "Exploring how tourism affects household welfare in Jamaica",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/jamaica_tourism/";
-          },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Projects/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "",
@@ -44,22 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv-link/";
           },
-        },{id: "projects-sun-sand-and-services-tourism-and-household-welfare-in-jamaica",
-          title: 'Sun, Sand, and Services: Tourism and Household Welfare in Jamaica',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/jamaica_tourism/";
-            },},{id: "projects-nowcasting-global-trade-from-space",
-          title: 'Nowcasting Global Trade from Space',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/portwatch_shipping/";
-            },},{id: "projects-climate-and-consumption-using-vegetation-indices-to-link-climate-and-household-welfare-in-mali",
-          title: 'Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in...',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/mali_agriculture/";
-            },},{
+        },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
