@@ -53,7 +53,8 @@ social: true # includes social icons at the bottom of the page
       <ul class="unstyled-list">
         <li>
           <strong>Ph.D. in Agricultural and Applied Economics</strong> University of Wisconsin - Madison (Expected 2026)<br>
-          Field: Development Economics
+          Primary Field: Development Economics
+          Secondary Fields: Trade, Structural Change
         </li>
         <li>
           <strong>M.S. Agricultural and Applied Economics</strong> University of Wisconsin - Madison, 2022
