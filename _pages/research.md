@@ -27,6 +27,10 @@ Job Market Paper:Slides</a>
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;" />
 
 ### Working Papers
+
+
+
+
 <i class="fa fa-download fa-ld" aria-hidden="true"></i>  <a href="{{'/Research/portwatch_writeup.pdf'}}" target="_blank"><strong>Nowcasting Global Trade from Space</strong></a> _with Serkan Arslanalp, Seung Mo Choi, Parisa Kamali, Robin Koepke, Michele Ruta, Mario Saraiva, Alessandra Sozzi, and Jasper Verschuur_  <br/>
 &#9679; <a href="https://www.imf.org/en/Publications/WP/Issues/2025/05/16/Nowcasting-Global-Trade-from-Space-566957)" target="_blank">IMF Working Paper</a> (05/2025)<br/>
 
@@ -46,13 +50,31 @@ Job Market Paper:Slides</a>
 <small>A large literature has estimated the effects of climate change on agricultural yields. That work assumes, but rarely tests, that changes in yields translate directly into changes in household wellbeing. Such assumptions elide the rather large literature on resilience to climate and other shocks. This work uses satellite derived yield data (GCVI) to analyze the relationship between agricultural productivity and household welfare, as measured by overall and food expenditure in the West African Sahel. We use remotely-sensed vegetation indices as a proxy for crop yields, as well as a granular household level dataset from 85\% of Mali's administrative communes between 2011 and 2019. Calculating commune-level indices for each growing season, we are then able to estimate their effects on  household level expenditures for two growing seasons per household. As expected,  we find that changes in yields have a statistically significant effect on overall household expenditure as well as other expenditure categories (food, leisure, etc.) for rural dwellers. This effect for rural dwellers is, however, relatively muted to changes in the values of vegetation indices, with GCVI to expenditure elasticities in the range of 0.10. Such low expenditure elasticities for changes in yields indicates a large degree of resilience to climate-related variation in agricultural productivity by Malian rural households. We draw conclusions based on this work for policy makers and for researchers interested in using remote sensed data for climate change and resilience research. </small> 
 </details>
 
+<div style="margin-top: 2em;">
+<strong>Tourist Demand, Hotel Competition, and Aggregate Welfare: Evidence from Jamaica</strong>
+<details open>
+<summary><b>Abstract</b></summary>
+<small>It is well known that the industries in which a nation specializes have significant implications for economic growth, structural change, and the overall welfare of its population. However, there is still much that is unknown about the implications of industrial policies in service-sector industries.
+	One industry for which a significant share of these questions remain unanswered is tourism. Over the course of the last half century, tourism has become one of the world's largest industries. 
+	I contribute to the literature by rigorously characterizing the implications of tourism within the context of Jamaica. I ask the question: Is a larger but more concentrated selection of accommodation offerings welfare improving for consumers, firms and workers in the context of Jamaica? 
+	I estimate a nested logit demand system, with All-Inclusive hotels in one nest and European Plan hotels in another. I then estimate a capacity constrained supply side of the model.  I obtain a price coefficient of -.004, and a mean price elasticity of -2.01, with a high degree of heterogeneity depending on the accommodation type, length of stay, and the region of the country. I then simulate three policy counterfactuals of taxes and subsidies on the accommodations sector, and quantify the effects on wages paid to workers, profits earned by firms, and consumer welfare. I conclude with policy recommendations for the Jamaican tourism sector.  </small> 
+</details>
+
+
+
+<div style="margin-top: 2em;">
+<strong>Beaches or Books: Tourism Shocks and Human Capital Accumulation</strong>
+<details open>
+<summary><b>Abstract</b></summary>
+<small>Schooling decisions by households are shaped by the opportunity costs of lost wages inherent in children pursuing an education. Research has shown for example, that positive manufacturing shocks in an area can increase drop-out rates. What is still not well understood, is the extent to which shocks to demand for major service sector industries influence household educational investments. I fill this gap in the literature by studying the impacts of increases in tourism intensity on schooling in the context of Jamaica, where tourism exports comprise a major share economic output. Exploiting temporal and geographic variation in tourism activity across the country, I investigate the extent to which increased tourism demand shocks interact with household socioeconomic status, parental schooling, and geographic distance from schooling facilities to influence household investment in education at key points in a child's educational career. From these findings I then draw conclusions about the potential trade-offs between tourism induced changes in human capital investments for households and tourism-driven economic development. </small> 
+</details>
+
+
+
 
 <!-- <a href="{{ '/projects/jamaica_tourism/' | prepend: site.baseurl | prepend: site.url }}">Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a> -->
 <hr style="margin: 2em 0; border: none; border-top: 1px solid #ccc;" />
 
 
-### Works in Progress
-<a >**Firm Behavior and Worker Welfare: Evidence From Jamaica**</a>
-
-<a >**Tourism Shocks and Human Capital Accumulation in Jamaica**</a>
+<!-- ### Works in Progress -->
 <!-- <a href="{{ '/projects/jamaica_tourism/' | prepend: site.baseurl | prepend: site.url }}">Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</a> -->
