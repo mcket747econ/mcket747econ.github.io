@@ -43,7 +43,7 @@ social: true # includes social icons at the bottom of the page
     </p>
 
     <p>
-      My primary regions of interest are the Caribbean and Sub-Saharan Africa. My dissertation studies the relationship between tourism and economic development in Jamaica.
+      My primary regions of interest are Latin America and the Caribbean and Sub-Saharan Africa. My dissertation studies the relationship between tourism and economic development in Jamaica.
     </p>
 
 
@@ -53,7 +53,8 @@ social: true # includes social icons at the bottom of the page
       <ul class="unstyled-list">
         <li>
           <strong>Ph.D. in Agricultural and Applied Economics</strong> University of Wisconsin - Madison (Expected 2026)<br>
-          Field: Development Economics
+          Primary Field: Development Economics<br> 
+          Secondary Fields: Trade, Structural Change
         </li>
         <li>
           <strong>M.S. Agricultural and Applied Economics</strong> University of Wisconsin - Madison, 2022
