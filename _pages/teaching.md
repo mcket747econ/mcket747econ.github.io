@@ -20,7 +20,7 @@ nav_order: 4
 **Teaching Assistant - AAE 215: Introduction to Agricultural and Applied Economics**, University of Wisconsin - Madison, Spring 2023  
 **Description:** This course provided a broad introduction to the field of economics for undergraduate students, the vast majority not being economics students. I taught discussion sections, held office hours, and assisted in the administration of the course.  
 **Number of Students:** 59  
-**Overall End of Term Evaluation:** 4.5/5 vs AAE Spring 2023 Average: 4.08  
+**Overall End of Term Evaluation:** 4.5/5
 
 **Selected Comments:**  
 &nbsp;&nbsp;a. “Best TA! I wish he was teaching the whole class and not just discussion. He always led super helpful and engaging discussions.”  
