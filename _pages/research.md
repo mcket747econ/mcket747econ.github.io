@@ -24,11 +24,11 @@ nav_order: 1
 <i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides (9/24/2025): 
 <a class="page-link" href="/Research/chapter1_official_presentation.pdf">
 Job Market Paper: Slides</a>
-<hr style="margin: 0.5em 0; border: none; border-top: 1px solid #ccc;" />
 <p style="margin-top:0.5em; font-size:0.9em;">
-Presented at: Center For The Study of African Economies Annual Conference (March 2025);
+Presented at: Center For The Study of African Economies Annual Conference (March 2025);<br>
 Upcoming: 2025 Global Labor Organization JOPE Conference (Dec 2025); ASSA Annual Meetings - Poster Session (Jan 2026);
 </p>
+<hr style="margin: 0.5em 0; border: none; border-top: 1px solid #ccc;" />
 <br>
 
 ### Working Papers
