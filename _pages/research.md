@@ -15,13 +15,13 @@ nav_order: 1
 </script>
 
 ## Job Market Paper
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> <a href="{{'/Research/McKetty_JMP_Current.pdf'}}" target="_blank"><strong>Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</strong></a> - Current Draft: (11/26/25)
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> <a href="{{'/Research/McKetty_JMP_Current.pdf'}}" target="_blank"><strong>Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</strong></a> - Current Draft: (01/02/26)
 
 <details open style="margin-top: 0.5em; margin-bottom: 0.75em;">
 <summary><b>Abstract</b></summary>
 <small>		Tourism services have seen marked growth over the previous two decades. A number of lower and middle-income countries have sought to take advantage of this boom in demand for tourism in the hopes of driving economic development. Even so, there remain significant questions about the ability of tourism to contribute to robust and inclusive prosperity for local populations in developing countries. I address this gap in the literature by investigating these questions in Jamaica, an upper middle-income country that has made the export of tourism services the foundation of its development strategy. I combine an incredibly rich and granular dataset of tourist expenditure surveys from the Jamaican Ministry of Tourism, with a detailed nationally representative household expenditure survey, both spanning nearly two decades. Linking tourist activity and individual households across consistent spatial units, I employ a shift-share instrumental variable identification strategy to estimate the effects of changes in tourism revenues on the welfare of local households. I find increases in real consumption and welfare for urban households, working in mid-skilled occupations in non-tourism services and manufacturing. I discuss the implications of these findings for our understanding of the welfare impacts of tourism specialization in developing countries, and for the design of policies that aim to harness and scale tourism in service of development. </small>
 </details>
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides (9/24/2025): 
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides (01/02/2026): 
 <a class="page-link" href="/Research/chapter1_official_presentation.pdf">
 Job Market Paper: Slides</a>
 <p style="margin-top:0.5em; font-size:0.9em;">
