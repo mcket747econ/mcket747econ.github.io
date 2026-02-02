@@ -15,13 +15,13 @@ nav_order: 1
 </script>
 
 ## Job Market Paper
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> <a href="{{'/Research/McKetty_JMP_Current.pdf'}}" target="_blank"><strong>Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</strong></a> - Current Draft: (11/26/25)
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> <a href="{{'/Research/McKetty_JMP_Current.pdf'}}" target="_blank"><strong>Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</strong></a> - Current Draft: (02/02/26)
 
 <details open style="margin-top: 0.5em; margin-bottom: 0.75em;">
 <summary><b>Abstract</b></summary>
 <small>		Tourism services have seen marked growth over the previous two decades. A number of lower and middle-income countries have sought to take advantage of this boom in demand for tourism in the hopes of driving economic development. Even so, there remain significant questions about the ability of tourism to contribute to robust and inclusive prosperity for local populations in developing countries. I address this gap in the literature by investigating these questions in Jamaica, an upper middle-income country that has made the export of tourism services the foundation of its development strategy. I combine an incredibly rich and granular dataset of tourist expenditure surveys from the Jamaican Ministry of Tourism, with a detailed nationally representative household expenditure survey, both spanning nearly two decades. Linking tourist activity and individual households across consistent spatial units, I employ a shift-share instrumental variable identification strategy to estimate the effects of changes in tourism revenues on the welfare of local households. I find increases in real consumption and welfare for urban households, working in mid-skilled occupations in non-tourism services and manufacturing. I discuss the implications of these findings for our understanding of the welfare impacts of tourism specialization in developing countries, and for the design of policies that aim to harness and scale tourism in service of development. </small>
 </details>
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides (9/24/2025): 
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides: 
 <a class="page-link" href="/Research/chapter1_official_presentation.pdf">
 Job Market Paper: Slides</a>
 <p style="margin-top:0.5em; font-size:0.9em;">
@@ -56,13 +56,27 @@ Upcoming: 2025 Global Labor Organization JOPE Conference (Dec 2025); ASSA Annual
 </details>
 
 <div style="margin-top: 2em;">
-<strong>Tourist Demand, Hotel Competition, and Aggregate Welfare: Evidence from Jamaica</strong>
+<strong>Tourist Demand, Hotel Competition, and Aggregate Welfare: Evidence from Jamaica
+
+<span style="
+      display:inline-block;
+      margin-left: .5rem;
+      padding: .15rem .5rem;
+      font-size: .75rem;
+      line-height: 1;
+      color: #0f5132;
+      background: #d1e7dd;
+      border: 1px solid #badbcc;
+      border-radius: 999px;
+      vertical-align: middle;
+    ">
+      Draft coming Friday, Feb 6, 2026
+    </span>
+
+</strong>
 <details open>
 <summary><b>Abstract</b></summary>
-<small>It is well known that the industries in which a nation specializes have significant implications for economic growth, structural change, and the overall welfare of its population. However, there is still much that is unknown about the implications of industrial policies in service-sector industries.
-	One industry for which a significant share of these questions remain unanswered is tourism. Over the course of the last half century, tourism has become one of the world's largest industries. 
-	I contribute to the literature by rigorously characterizing the implications of tourism within the context of Jamaica. I ask the question: Is a larger but more concentrated selection of accommodation offerings welfare improving for consumers, firms and workers in the context of Jamaica? 
-	I estimate a nested logit demand system, with All-Inclusive hotels in one nest and European Plan hotels in another. I then estimate a capacity constrained supply side of the model.  I obtain a price coefficient of -.004, and a mean price elasticity of -2.01, with a high degree of heterogeneity depending on the accommodation type, length of stay, and the region of the country. I then simulate three policy counterfactuals of taxes and subsidies on the accommodations sector, and quantify the effects on wages paid to workers, profits earned by firms, and consumer welfare. I conclude with policy recommendations for the Jamaican tourism sector.  </small> 
+<small>Tradable service exports have become increasingly important components of the economies for many lower- and middle-income countries. Two aspects of this transition that have not received significant attention are the interaction between importer preferences, market structures, and local economic engagement, and the role that these interactions play in achieving development outcomes. There is also much we do not know about the scope of government policies to optimize market structures to achieve development aims. This paper sheds light on these topics by analyzing tourist demand and hotel supply in Jamaica, as well as the impacts of market structure on tourist expenditures, tax revenues, and employment. I estimate a short-run equilibrium model of the Jamaican accommodations industry, with a nested logit demand system. I then conduct counterfactual simulations varying taxation, entry, and ownership structures. I find a distinct tension between optimal market structure for tax revenues and downstream tourist spending and the optimal structure for increasing accommodation employment. Inelastic consumer preferences for particular resort types constrain available choices for the government, and make the first-best market structure unattainable. I recommend policies for achieving second-best outcomes.   </small> 
 </details>
 
 
