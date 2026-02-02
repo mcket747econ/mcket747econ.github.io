@@ -70,7 +70,7 @@ Upcoming: 2025 Global Labor Organization JOPE Conference (Dec 2025); ASSA Annual
       border-radius: 999px;
       vertical-align: middle;
     ">
-      Draft coming Friday, February 6, 2026
+      Draft coming Friday, Feb 6, 2026
     </span>
 
 </strong>
