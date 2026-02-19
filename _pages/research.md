@@ -26,7 +26,7 @@ nav_order: 1
 Job Market Paper: Slides</a>
 <p style="margin-top:0.5em; font-size:0.9em;">
 Presented at: Center For The Study of African Economies Annual Conference (March 2025);<br>
-Upcoming: 2025 Global Labor Organization JOPE Conference (Dec 2025); ASSA Annual Meetings - Poster Session (Jan 2026);
+Upcoming: 2025 Global Labor Organization JOPE Conference (Dec 2025); ASSA Annual Meetings - Poster Session (Jan 2026); Midwest Development Conference (Apr 2026)
 </p>
 <hr style="margin: 0.5em 0; border: none; border-top: 1px solid #ccc;" />
 <br>
@@ -70,7 +70,7 @@ Upcoming: 2025 Global Labor Organization JOPE Conference (Dec 2025); ASSA Annual
       border-radius: 999px;
       vertical-align: middle;
     ">
-      Draft coming Tuesday, Feb 10, 2026
+      Draft coming Friday, Feb 20, 2026
     </span>
 
 </strong>
