@@ -11,9 +11,16 @@ nav_order: 4
 
 ---
 
+**Teaching Assistant - AAE 350/NS 350/ Agronomy 350: World Hunger and Malnutrition**, University of Wisconsin - Madison, Spring 2026  
+**Description:** World Hunger and Malnutrition is an interdisciplinary course in which students explore the relationship between economic systems, the global distribution of food, and the implications of unequal access to food for human health and welfare. I teach 4 discussion sections in which I extend lecture material, working through different concepts and questions in detail, providing students with a strong link between economic principles, present challenges in the global food system, and health outcomes.  
+**Number of Students:** 90  
+
+---
+
 **Teaching Assistant - German 267: Communication-B Research Writing Course**, University of Wisconsin - Madison, Fall 2025  
-**Description:** This is an introductory course to academic writing that is required for undergraduate students. The students learn fundamentals such as forming thesis statements, structuring their arguments, and correctly citing sources. As a TA I lead weekly discussion sections covering these topics and guide them through the process of preparing a final research paper by the end of the semester.  
+**Description:** This was an introductory course to academic writing that is required for undergraduate students. The students learn fundamentals such as forming thesis statements, structuring their arguments, and correctly citing sources. As a TA I lead weekly discussion sections covering these topics and guided them through the process of preparing a final research paper by the end of the semester.  
 **Number of Students:** 94  
+**Overall End of Term Evaluation:** 4.43/5
 
 ---
 

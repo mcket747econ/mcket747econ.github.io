@@ -31,8 +31,16 @@ social: true # includes social icons at the bottom of the page
 
 <div class="bio-wrapper">
 
- <div class="bio-image">
+  <div class="bio-image">
     <img src="/assets/img/prof_pic.jpg" alt="Matthew McKetty" class="profile-overlay">
+    <div class="left-column-block">
+      <h3>Education</h3>
+      <ul class="unstyled-list small-text">
+        <li><strong>Ph.D., Agricultural & Applied Economics</strong>, UW–Madison (Expected 2026)</li>
+        <li><strong>M.S., Agricultural & Applied Economics</strong>, UW–Madison, 2022</li>
+        <li><strong>B.A., Economics</strong>, University of Florida, 2019, Cum Laude</li> (Minor: French and Francophone Studies)
+      </ul>
+    </div>
   </div>
 
   
@@ -49,7 +57,8 @@ social: true # includes social icons at the bottom of the page
       <p>
         My dissertation research explores the impacts of tourism-specialization in Jamaica. 
         In my <a href="https://www.matthewmcketty.com/Research/McKetty_JMP_Current.pdf" class="adaptive-link">job market paper</a>, I analyze the effects of variations in tourism levels on the 
-        welfare of local households. I find that: <br>
+        welfare of local households. 
+        I find that: <br><br>
 
         <span style="color:#1a73e8; font-weight:600;">1. Gains are concentrated among mid‑skilled urban workers:</span> 
         The gains from tourism accrue primarily to mid-skilled workers in urban areas.<br>
@@ -71,7 +80,7 @@ social: true # includes social icons at the bottom of the page
     </p> -->
 
 
-    <p> In the video below, I give a brief overview of my job market paper and its implications for tourism specializing in emerging economies.</p>
+    <p> In the video below, I give a brief overview of my job market paper and its implications for tourism specialization in emerging economies.</p>
 
 <a class="interview-link-card"
   href="https://vimeo.com/1157415285"
@@ -89,7 +98,7 @@ social: true # includes social icons at the bottom of the page
 
 
 
-  <div class="education-section">
+  <!-- <div class="education-section">
       <h3>Education</h3>
       <ul class="unstyled-list">
         <li>
@@ -105,7 +114,7 @@ social: true # includes social icons at the bottom of the page
         </li>
       </ul>
     </div>
-  </div>
+  </div> -->
 
 
 </div>

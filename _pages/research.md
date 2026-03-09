@@ -25,8 +25,15 @@ nav_order: 1
 <a class="page-link" href="/Research/chapter1_official_presentation.pdf">
 Job Market Paper: Slides</a>
 <p style="margin-top:0.5em; font-size:0.9em;">
-Presented at: Center For The Study of African Economies Annual Conference (March 2025);<br>
-Upcoming: 2025 Global Labor Organization JOPE Conference (Dec 2025); ASSA Annual Meetings - Poster Session (Jan 2026); Midwest Development Conference (Apr 2026)
+Presentations:<br>
+ Upcoming: Midwest Development Conference (Apr 2026) <br>
+ Past: ASSA Annual Meetings - Poster Session (Jan 2026); 2025 Global Labor Organization JOPE Conference (Dec 2025); Center For The Study of African Economies Annual Conference (March 2025); West Indies Economic Conference (March 2024)<br>
+Media: 
+<i class="fa fa-video-camera" aria-hidden="true" style="margin-right:6px;"></i>
+<a href="https://vimeo.com/1157415285" target="_blank" class="adaptive-link" style="font-weight:600;">
+  Interview Video (ASSA Conference)
+</a>
+
 </p>
 <hr style="margin: 0.5em 0; border: none; border-top: 1px solid #ccc;" />
 <br>
@@ -70,7 +77,7 @@ Upcoming: 2025 Global Labor Organization JOPE Conference (Dec 2025); ASSA Annual
 
 
 <div style="margin-top: 2em;">
-<i class="fa fa-download fa-ld" aria-hidden="true"></i>  <a href="{{'/Research/portwatch_writeup.pdf'}}" target="_blank"><strong>Nowcasting Global Trade from Space</strong></a> _with Serkan Arslanalp, Seung Mo Choi, Parisa Kamali, Robin Koepke, Michele Ruta, Mario Saraiva, Alessandra Sozzi, and Jasper Verschuur_  <br/>
+<i class="fa fa-download fa-ld" aria-hidden="true"></i>  <a href="{{'/Research/portwatch_writeup.pdf'}}" target="_blank"><strong>Nowcasting Global Trade from Space</strong></a> with Serkan Arslanalp, Seung Mo Choi, Parisa Kamali, Robin Koepke, Michele Ruta, Mario Saraiva, Alessandra Sozzi, and Jasper Verschuur  <br/>
 &#9679; <a href="https://www.imf.org/en/Publications/WP/Issues/2025/05/16/Nowcasting-Global-Trade-from-Space-566957)" target="_blank">IMF Working Paper</a> (05/2025)<br/>
 
 <details open style="margin-top: 0.1em;">
@@ -81,7 +88,7 @@ Upcoming: 2025 Global Labor Organization JOPE Conference (Dec 2025); ASSA Annual
 
 
 <div style="margin-top: 2em;">
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> <a href="{{'/Research/mali_climate_writeup.pdf'}}" target="_blank"><strong>Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</strong></a> _with Jeremy Foltz_ - Current Draft: (09/24/25)
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> <a href="{{'/Research/mali_climate_writeup.pdf'}}" target="_blank"><strong>Climate and Consumption: Using Vegetation Indices to Link Climate and Household Welfare in Mali</strong></a> with Jeremy Foltz- Current Draft: (09/24/25)
 </div>
 
 <details open>
