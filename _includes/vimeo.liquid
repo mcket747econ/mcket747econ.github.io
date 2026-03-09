@@ -1,0 +1,17 @@
+{%- comment -%}
+  _includes/vimeo.liquid
+  Usage:
+    {% include vimeo.liquid id="1157415285" title=0 byline=0 portrait=0 autoplay=0 loop=0 %}
+{%- endcomment -%}
+
+<div class="video-container">
+  <iframe
+    src="https://player.vimeo.com/video/{{ include.id }}?title={{ include.title | default: 0 }}&byline={{ include.byline | default: 0 }}&portrait={{ include.portrait | default: 0 }}&autoplay={{ include.autoplay | default: 0 }}&loop={{ include.loop | default: 0 }}"
+    width="640"
+    height="360"
+    frameborder="0"
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
+    allowfullscreen
+    loading="lazy"
+  ></iframe>
+</div>

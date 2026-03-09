@@ -15,7 +15,7 @@ nav_order: 1
 </script>
 
 ## Job Market Paper
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> <a href="{{'/Research/McKetty_JMP_Current.pdf'}}" target="_blank"><strong>Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</strong></a> - Current Draft: (02/02/26)
+<i class="fa fa-download fa-ld" aria-hidden="true"></i> <a href="{{'/Research/McKetty_JMP_Current.pdf'}}" target="_blank"><strong>Sun, Sand, and Services: Tourism and Household Welfare in Jamaica</strong></a> - Current Draft: (03/01/26)
 
 <details open style="margin-top: 0.5em; margin-bottom: 0.75em;">
 <summary><b>Abstract</b></summary>
@@ -39,7 +39,7 @@ Upcoming: 2025 Global Labor Organization JOPE Conference (Dec 2025); ASSA Annual
   <a href="{{ '/Research/McKetty_marketstructure_current.pdf' | relative_url }}" target="_blank" rel="noopener">
     <strong>Market Structure and Development: Firm Competition in Jamaica</strong>
   </a>
-  &nbsp;—&nbsp; <span>Current Draft: (02/28/26)</span>
+  &nbsp;—&nbsp; <span>Current Draft: (03/09/26)</span>
 </div>
 
 <!-- Keep a blank line between blocks to avoid Markdown/HTML mixing issues -->

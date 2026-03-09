@@ -196,8 +196,143 @@ $max-content-width: {{ site.max_width }};
   padding: 0 1.5rem;
 }
 
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  margin: 1.5rem 0;
+}
+
+.video-container iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
 
 
+.interview-intro h3 {
+  font-size: 1.4rem;     /* smaller than your banner h3 */
+  margin-bottom: 0.3rem;
+}
+
+.interview-intro p {
+  font-size: 0.95rem; 
+  color: #555;
+  margin-bottom: 1rem;
+  max-width: 650px;
+}
+
+/* ---- Interview Link Card (no thumbnail) ---- */
+.interview-link-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  text-decoration: none;
+  background: #fafafa;
+  border: 1px solid #eaeaea;
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin: 16px 0;              /* spacing above/below the card */
+  transition: background .15s ease, border-color .15s ease, transform .05s ease;
+}
+
+.interview-link-card:hover {
+  background: #f5f7fb;
+  border-color: #dfe6f2;
+  transform: translateY(-1px);
+}
+
+.ilc-text {
+  display: grid;
+  gap: 4px;
+}
+
+.ilc-title {
+  font-weight: 600;
+  color: #111;
+}
+
+.ilc-sub {
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
+
+.ilc-url {
+  color: #3b82f6; /* link-ish */
+  font-size: 0.9rem;
+}
+
+.ilc-cta {
+  color: #3b82f6;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* ---- Interview Link Card (no thumbnail) ---- */
+.interview-link-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  text-decoration: none;
+  background: #fafafa;
+  border: 1px solid #eaeaea;
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin: 16px 0;              /* spacing above/below the card */
+  transition: background .15s ease, border-color .15s ease, transform .05s ease;
+}
+
+.interview-link-card:hover {
+  background: #f5f7fb;
+  border-color: #dfe6f2;
+  transform: translateY(-1px);
+}
+
+.ilc-text {
+  display: grid;
+  gap: 4px;
+}
+
+.ilc-title {
+  font-weight: 600;
+  color: #111;
+}
+
+.ilc-sub {
+  color: #555;
+  font-size: 0.95rem;
+  line-height: 1.35;
+}
+
+.ilc-url {
+  color: #3b82f6; /* link-ish */
+  font-size: 0.9rem;
+}
+
+.ilc-cta {
+  color: #3b82f6;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Mobile stack for narrow screens */
+@media (max-width: 560px) {
+  .interview-link-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .ilc-cta {
+    align-self: flex-end;
+  }
+}
 
 
 @import

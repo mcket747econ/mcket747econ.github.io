@@ -38,13 +38,54 @@ social: true # includes social icons at the bottom of the page
   
   <div class="bio-text">
     <p>
-      I am an applied economist specializing in development with work at the intersection of household welfare, structural change, and trade. I am currently a doctoral student at the 
-      <a href="https://aae.wisc.edu" class="adaptive-link">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. I am on the 2025–2026 economics job market.
+      I am an applied economist specializing in development working on topics at the intersection, structural change, and trade. I am currently a doctoral candidate at the 
+      <a href="https://aae.wisc.edu" class="adaptive-link">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. <strong>I am on the 2025–2026 economics job market.</strong>
     </p>
 
     <p>
-      My primary regions of interest are Latin America and the Caribbean and Sub-Saharan Africa. My dissertation studies the relationship between tourism and economic development in Jamaica.
+      I use tools from applied microeconomics, applied econometrics, structural industrial organization, and simulation-based quantitative methods for counterfactual policy analysis. I am particularly interested in the implications of service-sector specialization for economic development in emerging economies in Latin America and the Caribbean (LAC), and Sub-Saharan Africa.        
     </p>
+
+      <p>
+        My dissertation research explores the impacts of tourism-specialization in Jamaica. 
+        In my <a href="https://www.matthewmcketty.com/Research/McKetty_JMP_Current.pdf" class="adaptive-link">job market paper</a>, I analyze the effects of variations in tourism levels on the 
+        welfare of local households. I find that: <br>
+
+        <span style="color:#1a73e8; font-weight:600;">1. Gains are concentrated among mid‑skilled urban workers:</span> 
+        The gains from tourism accrue primarily to mid-skilled workers in urban areas.<br>
+
+        <span style="color:#1a73e8; font-weight:600;">2. Spillovers through non-tourism sectors:</span> 
+        The workers that benefit are employed in manufacturing and non‑tourism services, 
+        demonstrating a meaningful capacity for spillovers.<br>
+
+        <span style="color:#1a73e8; font-weight:600;">3. Limited benefits for low‑skilled or rural households:</span> 
+        There are no real welfare improvements for low-skilled workers or rural households.
+      </p>
+
+
+    <!-- <p>
+      My dissertation research explores the impacts of tourism-specialization in Jamaica. In my job market paper, I analyze the effects of variations in tourism levels on the welfare of local households. I find that: <br>
+      1. The gains from tourism accrue primarily to mid-skilled workers in urban areas <br>
+      2. The workers that benefit are employed in manufacturing and non-tourism services, demonstrating a meaningful capacity for spillovers <br>
+      3. There are no real welfare improvements low-skilled workers or rural households.
+    </p> -->
+
+
+    <p> In the video below, I give a brief overview of my job market paper and its implications for tourism specializing in emerging economies.</p>
+
+<a class="interview-link-card"
+  href="https://vimeo.com/1157415285"
+  target="_blank"
+  rel="noopener"
+  aria-label="Watch my ASSA Conference Interview on Vimeo (opens in new tab)">
+  
+  <div class="ilc-text">
+    <div class="ilc-title">ASSA Conference Interview</div>
+    <div class="ilc-sub">A short interview about my dissertation and research agenda (opens on Vimeo).</div>
+  </div>
+
+  <div class="ilc-cta">Watch →</div>
+</a>
 
 
 
@@ -66,8 +107,32 @@ social: true # includes social icons at the bottom of the page
     </div>
   </div>
 
- 
+
 </div>
+
+<!-- Temporary direct embed to verify -->
+<!-- <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1rem 0;">
+  <iframe
+    src="https://vimeo.com/1157415285?&signup=true#_=_"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"
+    allow="autoplay; fullscreen; picture-in-picture; clipboard-write"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+</div> -->
+
+
+<!-- <a href="https://vimeo.com/1157415285" target="_blank" style="display:block;text-align:center;">
+  <img src="https://i.vimeocdn.com/video/placeholder.jpg" 
+       alt="ASSA Interview" 
+       style="max-width:100%;border-radius:10px;box-shadow:0 4px 15px rgba(0,0,0,0.1);">
+  <div style="margin-top:8px;color:#555;font-size:0.9rem;">
+    Watch my ASSA Conference Interview
+  </div>
+</a> -->
+
+
+
 
 
   <!-- <div class="education-section">
