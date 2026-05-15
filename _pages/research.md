@@ -46,7 +46,7 @@ Media:
   <a href="{{ '/Research/McKetty_marketstructure_current.pdf' | relative_url }}" target="_blank" rel="noopener">
     <strong>Market Structure and Development: Firm Competition in Jamaica's Hotel Industry </strong>
   </a>
-  &nbsp;—&nbsp; <span>Current Draft: (03/09/26)</span>
+  &nbsp;—&nbsp; <span>Current Draft: (05/15/26)</span>
 </div>
 
 <!-- Keep a blank line between blocks to avoid Markdown/HTML mixing issues -->
