@@ -38,7 +38,7 @@ social: true # includes social icons at the bottom of the page
       <ul class="unstyled-list small-text">
         <li><strong>Ph.D., Agricultural & Applied Economics</strong>, UW–Madison (Expected 2026)</li>
         <li><strong>M.S., Agricultural & Applied Economics</strong>, UW–Madison, 2022</li>
-        <li><strong>B.A., Economics</strong>, University of Florida, 2019, Cum Laude</li> (Minor: French and Francophone Studies)
+        <li><strong>B.A., Economics</strong>, University of Florida, 2019, Cum Laude (Minor: French and Francophone Studies)</li>
       </ul>
     </div>
   </div>
@@ -47,7 +47,11 @@ social: true # includes social icons at the bottom of the page
   <div class="bio-text">
     <p>
       I am an applied economist specializing in development working on topics at the intersection, structural change, and trade. I am currently a doctoral candidate at the 
-      <a href="https://aae.wisc.edu" class="adaptive-link">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. <strong>I am on the 2025–2026 economics job market.</strong>
+      <a href="https://aae.wisc.edu" class="adaptive-link">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. 
+    </p>
+
+    <p>
+      This August I will join the Expert Analysis Group of the Antitrust Division in the U.S. Department of Justice.
     </p>
 
     <p>
