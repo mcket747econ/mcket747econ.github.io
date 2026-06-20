@@ -51,7 +51,7 @@ social: true # includes social icons at the bottom of the page
     </p>
 
     <p>
-      This August I will join the Expert Analysis Group of the Antitrust Division in the U.S. Department of Justice.
+      This August I will join the Expert Analysis Group in the Antitrust Division of the U.S. Department of Justice.
     </p>
 
     <p>
