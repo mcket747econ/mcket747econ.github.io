@@ -46,7 +46,7 @@ Media:
   <a href="{{ '/Research/McKetty_marketstructure_current.pdf' | relative_url }}" target="_blank" rel="noopener">
     <strong>Market Structure and Development: Firm Competition in Jamaica's Hotel Industry </strong>
   </a>
-  &nbsp;—&nbsp; <span>Current Draft: (03/09/26)</span>
+  &nbsp;—&nbsp; <span>Current Draft: (05/15/26)</span>
 </div>
 
 <!-- Keep a blank line between blocks to avoid Markdown/HTML mixing issues -->
@@ -71,12 +71,12 @@ Media:
 <details open>
   <summary><b>Abstract</b></summary>
   <small>
-    Growing specialization in services has become a defining feature of many emerging economies, and the tradable service sector of tourism has been a key contributor to this growth. Despite the importance of tourism services, the roles of market structure and product composition in shaping the development outcomes of specialization in tourism are not well understood. This paper fills this gap in the literature by characterizing the relationship between the organization of the Jamaican hotel industry and three development objectives. I estimate a nested logit demand system for the Jamaican hotel industry, and the supply function for hotel parent companies to form a partial equilibrium model of the country's accommodations sector. I then conduct counterfactual simulations in which I vary the entry of new hotels to Jamaican markets, the ownership structures of these hotels, and the tax regime applied to the sector. I find that demand for accommodations is relatively price-inelastic with a mean own-price elasticity of -1.43, which is consistent with the more premium-focused tourism style of Jamaica. Consumers are generally inelastic in their preferences for multinational-owned all-inclusive resorts, and counterfactual simulations show that the entry of these firms largely attracted customers who otherwise would not have visited. The addition of new products by non-incumbent firms is optimal for increasing arrivals and employment, and a more progressive ad-valorem tax structure can raise tourism tax revenues 55 percent with minimal impact on employment and total tourist expenditures.
+    	Growing specialization in services has become a defining feature of many emerging economies, and the tradable service sector of tourism has been a key contributor to this growth. Despite the importance of tourism services, the roles of market structure and product composition in shaping the development outcomes of specialization in tourism are not well understood. This paper fills this gap in the literature by characterizing the relationship between the organization of the Jamaican hotel industry and three development objectives. I estimate a nested logit demand system for the Jamaican hotel industry and the supply function for hotel parent companies to form a partial equilibrium model of the country's accommodations sector. I then conduct counterfactual simulations in which I vary the entry of new hotels to Jamaican markets, the ownership structures of these hotels, and the tax regime applied to the sector. I find that demand for accommodations is relatively price-insensitive with a mean own-price elasticity of -1.43, which is consistent with the more premium-focused tourism style of Jamaica. Consumers are generally rigid in their preferences for multinational-owned all-inclusive resorts, and counterfactual simulations show that the entry of these firms largely attracted customers who otherwise would not have visited. The addition of new products by non-incumbent firms is optimal for increasing arrivals and employment, and a more progressive ad-valorem tax structure can raise tourism tax revenues by 32 percent with minimal impact on employment and total tourist expenditures
   </small>
 </details>
-<i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides: 
+<!-- <i class="fa fa-download fa-ld" aria-hidden="true"></i> Slides: 
 <a class="page-link" href="/Research/market_structure_slides.pdf">
-Market Structure and Development: Firm Competition in Jamaica's Hotel Industry </a>
+Market Structure and Development: Firm Competition in Jamaica's Hotel Industry </a> -->
 
 
 <div style="margin-top: 2em;">
