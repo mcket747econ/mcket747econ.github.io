@@ -46,8 +46,7 @@ social: true # includes social icons at the bottom of the page
   
   <div class="bio-text">
     <p>
-      I am an applied economist specializing in development working on topics at the intersection, structural change, and trade. I am currently a doctoral candidate at the 
-      <a href="https://aae.wisc.edu" class="adaptive-link">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. 
+      I am an applied economist specializing in development working on topics at the intersection of development, structural change, and trade. I am currently a doctoral candidate at the <a href="https://aae.wisc.edu" class="adaptive-link">University of Wisconsin - Madison</a> in the Agricultural and Applied Economics Department. 
     </p>
 
     <p>
