@@ -36,7 +36,7 @@ social: true # includes social icons at the bottom of the page
     <div class="left-column-block">
       <h3>Education</h3>
       <ul class="unstyled-list small-text">
-        <li><strong>Ph.D., Agricultural & Applied Economics</strong>, UW–Madison (Expected 2026)</li>
+        <li><strong>Ph.D., Agricultural & Applied Economics</strong>, UW–Madison </li>
         <li><strong>M.S., Agricultural & Applied Economics</strong>, UW–Madison, 2022</li>
         <li><strong>B.A., Economics</strong>, University of Florida, 2019, Cum Laude (Minor: French and Francophone Studies)</li>
       </ul>
